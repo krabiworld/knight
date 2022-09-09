@@ -1,9 +1,9 @@
 # Knight
 Chess Social Network,
-[ui](https://knight.chesscord.wiki) 
+[ui](data:text/plain;charset=utf-8;base64,bGluayBubyBsb25nZXIgYXZhaWxhYmxl) 
 ([repo](https://github.com/Headcrab/knight-ui)),
-[docs](https://docs.chesscord.wiki),
-[api](https://headcrab.gitbook.io/knight/)
+[docs](data:text/plain;charset=utf-8;base64,bGluayBubyBsb25nZXIgYXZhaWxhYmxl),
+[api](data:text/plain;charset=utf-8;base64,bGluayBubyBsb25nZXIgYXZhaWxhYmxl)
 
 ## Instruction
 1. Clone this repository.
