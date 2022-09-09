@@ -1,6 +1,6 @@
 # Knight
 Chess Social Network,
-[ui](https://github.com/Headcrab/knight-ui)
+[ui](https://github.com/HeadcrabJ/knight-ui)
 
 ## Instruction
 1. Clone this repository.
@@ -38,4 +38,4 @@ docker build -t knight .
 docker run -d -p 8787:8787 knight
 ```
 
-Developed by [u032](https://github.com/orchst) and [Headcrab](https://github.com/HeadcrabJ)
+Developed by [u032](https://github.com/orchst/) and [Headcrab](https://github.com/HeadcrabJ/)
