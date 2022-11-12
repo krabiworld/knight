@@ -38,4 +38,5 @@ docker build -t knight .
 docker run -d -p 8787:8787 knight
 ```
 
-Developed by [u032](https://github.com/orchst/) and [Headcrab](https://github.com/HeadcrabJ/)
+## Developed by
+[u032](https://github.com/orchst), [Daniel](https://github.com/thedanielj)
