@@ -1,11 +1,11 @@
 # Knight
 Chess Social Network,
-[ui](https://github.com/HeadcrabJ/knight-ui)
+[ui](https://github.com/thedanielj/knight-ui)
 
 ## Instruction
 1. Clone this repository.
 ```shell
-git clone https://github.com/HeadcrabJ/knight.git
+git clone https://github.com/thedanielj/knight.git
 ```
 2. Create project in Firebase.
 3. Click to Settings icon and choose `Project settings`.
