@@ -39,4 +39,4 @@ docker run -d -p 8787:8787 knight
 ```
 
 ## Developed by
-[orchst](https://github.com/orchst), [Daniel](https://github.com/thedanielj)
+[orchst](https://github.com/orchst), [HeadcrabJ](https://github.com/HeadcrabJ)
