@@ -1,6 +1,6 @@
 val ktorVersion = "2.0.3"
 val kotlinVersion = "1.6.21"
-val logbackVersion = "1.2.11"
+val logbackVersion = "1.4.6"
 val firebaseVersion = "9.0.0"
 val dotenvVersion = "6.3.1"
 val isDevelopment = true
